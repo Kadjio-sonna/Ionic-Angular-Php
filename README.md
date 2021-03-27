@@ -11,10 +11,8 @@
 - Ouvrir le navigateur a l'adresse: **http://localhost:8100**
 
 ## Images
-- ![home](image/accueil.png)
-- ![Swipe](image/slide.png)
-- ![Add student](image/add.png)
-- ![Delete student](image/delete.png)
-- ![Update](image/update.png)
+ ![home](image/accueil.png) ![Swipe](image/slide.png)
+ ![Add student](image/add.png) ![Delete student](image/delete.png)
+ ![Update](image/update.png)
 
 
